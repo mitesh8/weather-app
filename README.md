@@ -38,10 +38,3 @@ npm install
 npm start
 ```
 
-## Credits
-
-[OpenWeatherMap](https://openweathermap.org/ 'OpenWeatherMap') (Weather data API)
-
-[Algolia Places](https://community.algolia.com/places/ 'Algolia Places') (Place suggestion API)
-
-[Icons8.com](https://www.icons8.com 'Icons8.com') (Weather icons)
